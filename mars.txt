@@ -1,3 +1,5 @@
+ok just a bit more
 adding some more text here
-thsi is my test file for git
+this is my test file for git
 this is some more text that i'm adding tothe document
+and a new line here
